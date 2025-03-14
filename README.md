@@ -1,4 +1,6 @@
 # Prakrit Noun Generator  
+![GitHub](https://img.shields.io/github/license/svyoma/prakrit-verb)					![GitHub last commit](https://img.shields.io/github/last-commit/svyoma/prakrit-verb)
+
 
 This is a Rust-based program that generates noun forms for **Prakrit words** based on their endings and grammatical cases. It applies specific linguistic rules to transform root words into various forms used in Prakrit grammar. The program accurately handles vowel mutations and suffix transformations to produce grammatically consistent noun forms.
 
@@ -82,11 +84,6 @@ Contributions are welcome! To contribute:
 
 ## License  
 This project is licensed under the **MIT License** – feel free to modify and share!  
-
----
-
-## Last Commit  
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/prakrit-noun-generator)](https://github.com/your-username/prakrit-noun-generator/commits/main)  
 
 ---
 
