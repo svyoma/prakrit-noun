@@ -1,6 +1,5 @@
 # Prakrit Noun Generator  
-![GitHub](https://img.shields.io/github/license/svyoma/prakrit-verb)            ![GitHub last commit](https://img.shields.io/github/last-commit/svyoma/prakrit-verb)
-
+![GitHub](https://img.shields.io/github/license/svyoma/prakrit-verb)            ![GitHub last commit](https://img.shields.io/github/last-commit/svyoma/prakrit-noun)
 
 # Prakrit Noun Declension Generator
 
@@ -51,4 +50,4 @@ prakrit-noun/
 📝 License
 
 This project is licensed under the MIT License.
-👤 Author: [Vyom A. Shah](https://github.com/svyoma) – working on tools for classical languages and scripts)
+👤 Author: [Vyom A. Shah](https://github.com/svyoma) – working on tools for classical languages
